@@ -26,4 +26,4 @@ I mostly work with Modern C++, engine architecture and real-time graphics (Unrea
 - LinkedIn: [fernando-jperez-gamedev](https://www.linkedin.com/in/fernandojperez-gamedev/)
 - End of Life (PlayStation Talents Finalist): [Steam](https://store.steampowered.com/app/2666520/End_Of_Life/)
 
-Open to opportunities in physics, graphics, and tools programming — reach out if something here overlaps with what you're building.
+Open to opportunities in physics, graphics, and tools programming. Reach out if something here overlaps with what you're building.
